@@ -1,6 +1,6 @@
 {
   "name": "LetMeAuth-GooglePlusSDK-iOS",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "authors": {
     "Evgeniy Yurtaev": "evgeniyyurt@gmail.com",
     "Alexey Aleshkov": "djmadcat@gmail.com"
@@ -12,7 +12,7 @@
   "summary": "Let Me Auth! Google+ authorization provider based on official Google+ SDK",
   "homepage": "https://github.com/webparadox/LetMeAuth-GooglePlusSDK-iOS",
   "source": {
-    "git": "https://github.com/webparadox/LetMeAuth-GooglePlusSDK-iOS.git",
+    "git": "https://github.com/dmitrykurochka/LetMeAuth-GooglePlusSDK-iOS",
     "tag": "2.0.1"
   },
   "platforms": {

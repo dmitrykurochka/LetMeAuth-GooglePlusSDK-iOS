@@ -76,7 +76,7 @@
     // See documentation for ClientId
     // scheme == bundleIdentifier
     NSString *bundleIdentifier = [[[NSBundle mainBundle] infoDictionary] objectForKey:@"CFBundleIdentifier"];
-    if (![[url scheme] isEqualToString:[bundleIdentifier lowercaseString]]) {
+    if (![[url scheme] isEqualToString:bundleIdentifier]) {
         return NO;
     }
 

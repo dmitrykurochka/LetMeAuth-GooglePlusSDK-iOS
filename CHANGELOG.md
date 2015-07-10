@@ -1,3 +1,7 @@
+= 2.0.2 (2015.07.09)
+    
+    * Fix URL-handling when bundle identifier contains uppercase letters back 
+
 = 2.0.1 (2015.03.29)
 
  * Fix URL-handling when bundle identifier contains uppercase letters (fixed in #1 by @plzen)

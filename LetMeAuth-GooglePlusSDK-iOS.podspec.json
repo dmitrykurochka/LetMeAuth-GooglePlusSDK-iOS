@@ -13,7 +13,7 @@
   "homepage": "https://github.com/webparadox/LetMeAuth-GooglePlusSDK-iOS",
   "source": {
     "git": "https://github.com/dmitrykurochka/LetMeAuth-GooglePlusSDK-iOS",
-    "tag": "2.0.1"
+    "tag": "2.0.2"
   },
   "platforms": {
     "ios": "6.0"

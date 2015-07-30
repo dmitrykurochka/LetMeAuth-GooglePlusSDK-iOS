@@ -24,7 +24,7 @@
     "LetMeAuth": [
       "~> 2.0"
     ],
-    "googleplus-ios-sdk": [
+    "google-plus-ios-sdk": [
       "~> 1.7"
     ]
   }
